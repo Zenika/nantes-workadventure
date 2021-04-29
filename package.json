@@ -21,6 +21,6 @@
     "test": "ts-node node_modules/jasmine/bin/jasmine --config=jasmine.json",
     "lint": "node_modules/.bin/eslint src/ . --ext .ts",
     "fix": "node_modules/.bin/eslint --fix src/ . --ext .ts",
-    "format": "node ./json-format map.json"
+    "format": "node ./json-format map.json lb.json"
   }
 }
