@@ -2747,7 +2747,7 @@
         {
           "name": "jitsiRoom",
           "type": "string",
-          "value": "lb"
+          "value": "zenika-nantes-lb"
         }
       ],
       "type": "tilelayer",

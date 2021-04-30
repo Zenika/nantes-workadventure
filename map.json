@@ -20637,7 +20637,7 @@
         {
           "name": "jitsiRoom",
           "type": "string",
-          "value": "kitchen"
+          "value": "zenika-nantes-kitchen"
         }
       ],
       "type": "tilelayer",
