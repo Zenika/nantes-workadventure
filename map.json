@@ -20636,6 +20636,13 @@
           "id": 26,
           "name": "ferrailleur",
           "opacity": 1,
+          "properties": [
+            {
+              "name": "jitsiRoom",
+              "type": "string",
+              "value": "zenika-nantes-ferrailleur"
+            }
+          ],
           "type": "tilelayer",
           "visible": true,
           "width": 70,
@@ -27509,6 +27516,13 @@
           "id": 28,
           "name": "stereolux",
           "opacity": 1,
+          "properties": [
+            {
+              "name": "jitsiRoom",
+              "type": "string",
+              "value": "zenika-nantes-stereolux"
+            }
+          ],
           "type": "tilelayer",
           "visible": true,
           "width": 70,
